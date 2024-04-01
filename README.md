@@ -1,2 +1,2 @@
-Some Instances of Codes write in High School
+Some Instances of Codes wrote in High School
 
