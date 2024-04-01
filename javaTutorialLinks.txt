@@ -1,0 +1,15 @@
+https://docs.oracle.com/javase/tutorial/index.html
+https://www.codejava.net
+https://www.codejava.net/ides/eclipse/import-existing-projects-into-eclipse-workspace
+https://www.homeandlearn.co.uk/java/java_option_panes.html
+https://www.w3schools.com/java/java_user_input.asp
+https://www.tutorialspoint.com/javafx/javafx_application.htm
+https://www.javatpoint.com/java-jscrollbar
+https://www.geeksforgeeks.org/getproperty-and-getproperties-methods-of-system-class-in-java/
+http://web.cs.ucla.edu/~miryung/teaching/EE379K-Spring2014/SwingTutorial.html - help with javax swing
+https://www.java-made-easy.com/java-jframe.html
+http://tutorials.jenkov.com/javafx/button.html
+http://www.java2s.com/Tutorials/Java/JavaFX/0040__JavaFX_Line.htm
+
+
+ 	
