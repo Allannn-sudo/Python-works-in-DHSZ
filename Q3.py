@@ -1,0 +1,5 @@
+name=input("please enter your name")
+age=input("What is your age?")
+pro=input("What is your favourite TV program?")
+print(name,age)
+print("likes watching",pro)
